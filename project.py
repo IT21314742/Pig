@@ -1,4 +1,4 @@
 import random
 
 def roll():
-    min_value
+    min_value = 
