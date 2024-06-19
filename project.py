@@ -11,4 +11,4 @@ value = roll()
 print(value)  
 
 
-players = input()
+players = input("Enter the Number of Players")
