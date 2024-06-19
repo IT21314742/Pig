@@ -25,3 +25,4 @@ max_score = 50
 player_scores = [0 for _ in range(players)]
 
 print(player_scores)
+
