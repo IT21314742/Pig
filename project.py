@@ -17,3 +17,4 @@ while True:
         if 2 <= players <= 4:
             print("Must be between 2 - 4 players.")
             break
+    else:
