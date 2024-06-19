@@ -11,7 +11,7 @@ value = roll()
 print(value)  
 
 while True:
-    players = input("Enter the Number of Players (1-4): ")
+    players = input("Enter the Number of Players (2-4): ")
     if players.isdigit():
         players = int(players)
-        if 1 <=
+        if 2 <=
