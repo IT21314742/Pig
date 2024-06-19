@@ -7,8 +7,6 @@ def roll():
 
     return roll
 
-value = roll()
-print(value)  
 
 while True:
     players = input("Enter the Number of Players (2-4): ")
