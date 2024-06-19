@@ -12,3 +12,4 @@ print(value)
 
 while True:
     players = input("Enter the Number of Players (1-4): ")
+    if players.isdigit():
