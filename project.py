@@ -10,5 +10,5 @@ def roll():
 value = roll()
 print(value)  
 
-
-players = input("Enter the Number of Players (1-4): ")
+while True:
+    players = input("Enter the Number of Players (1-4): ")
