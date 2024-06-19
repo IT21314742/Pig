@@ -15,3 +15,4 @@ while True:
     if players.isdigit():
         players = int(players)
         if 2 <= players <= 4:
+            print("")
