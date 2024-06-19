@@ -22,4 +22,4 @@ while True:
 print(players)
 
 max_score = 50
-player_scores = [0 for range(start, stop, step)]
+player_scores = [0 for range()]
