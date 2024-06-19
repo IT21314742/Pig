@@ -21,4 +21,4 @@ while True:
 
 print(players)
 
-max_score = 
+max_score = 50
