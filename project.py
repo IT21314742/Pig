@@ -20,3 +20,5 @@ while True:
         print("Invalid, try again.")
 
 print(players)
+
+max_score
