@@ -1,4 +1,4 @@
 import random
 
-def roll(arg):
-    pass
+def roll():
+    
