@@ -11,4 +11,4 @@ value = roll()
 print(value)  
 
 
-players = 
+players = input()
