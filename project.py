@@ -31,4 +31,4 @@ while max(player_scores) < max_score:
     if should_roll.lower() == "y":
         value = roll()
     else:
-        brea 
+        break 
