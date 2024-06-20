@@ -30,4 +30,4 @@ while max(player_scores) < max_score:
     should_roll = input("would you like to roll (y)?")
     if should_roll.lower() == "y":
         value = roll()
-     
+    else 
