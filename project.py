@@ -34,4 +34,4 @@ while max(player_scores) < max_score:
         break 
 
 
-    valu
+    value
