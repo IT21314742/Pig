@@ -27,4 +27,4 @@ player_scores = [0 for _ in range(players)]
 print(player_scores)
 
 while max(player_scores) < max_score:
-    should_roll = input("wo")
+    should_roll = input("wou")
