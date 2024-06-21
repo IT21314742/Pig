@@ -29,7 +29,6 @@ print(player_scores)
 while max(player_scores) < max_score:
     
     for player_idx in range(players):
-
         current_score = 0
 
         should_roll = input("would you like to roll (y)?")
