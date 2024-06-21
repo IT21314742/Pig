@@ -28,7 +28,7 @@ print(player_scores)
 
 while max(player_scores) < max_score:
     
-    for
+    for player
 
         current_score = 0
 
