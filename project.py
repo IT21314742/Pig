@@ -36,4 +36,4 @@ while max(player_scores) < max_score:
 
     value = roll()
     if value == 1:
-        print
+        print()
