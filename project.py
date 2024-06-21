@@ -28,6 +28,7 @@ print(player_scores)
 
 while max(player_scores) < max_score:
     
+    
 
         current_score = 0
 
