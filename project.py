@@ -29,7 +29,7 @@ print(player_scores)
 while max(player_scores) < max_score:
 
     current_score = 0
-    
+
     should_roll = input("would you like to roll (y)?")
     if should_roll.lower() == "y":
         value = roll()
@@ -40,5 +40,5 @@ while max(player_scores) < max_score:
     value = roll()
     if value == 1:
         print("You rolled a 1! Turn done!")
-    else
+    else:
         print("You rolled a:", value)
