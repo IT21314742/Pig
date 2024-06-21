@@ -50,4 +50,4 @@ while max(player_scores) < max_score:
 
             print("Your score is:", current_score)
 
-    
+    player_scores
