@@ -42,7 +42,7 @@ while max(player_scores) < max_score:
             value = roll()
             if value == 1:
                 print("You rolled a 1! Turn done!")
-                
+                current_score
                 break
 
             else:
