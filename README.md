@@ -7,5 +7,5 @@ _**Key Features:**_
  - **Multiplayer Support:**   Allow up to 4 players to join the game, taking turns to roll the dice and compete for the highest score.
  - **Turn-Based Gameplay:**   Ensure fair play with a structured turn-based system, giving each player a chance to roll the dice and track their progress.
  - **Score Tracking:**         Automatically calculate and display each player's score at the end of their turn, providing a clear and competitive gaming experience.
- - **Interactive Interface:**  Enjoy an intuitive and interactive interface that guides players
+ - **Interactive Interface:**  Enjoy an intuitive and interactive interface that guides players through each step of the game.
 
