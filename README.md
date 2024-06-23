@@ -1,2 +1,2 @@
 Introducing a thrilling Multiplayer Dice Game developed in Python, where up to 4 players can compete
- in a classic  "Roll the Dice" challenge. This project brings the 
+ in a classic  "Roll the Dice" challenge. This project brings the excitement of traditional dice
