@@ -9,3 +9,4 @@ _**Key Features:**_
  - **Score Tracking:**         Automatically calculate and display each player's score at the end of their turn, providing a clear and competitive gaming experience.
  - **Interactive Interface:**  Enjoy an intuitive and interactive interface that guides players through each step of the game.
 
+_**How to Use:**_
