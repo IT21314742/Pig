@@ -10,3 +10,4 @@ _**Key Features:**_
  - **Interactive Interface:**  Enjoy an intuitive and interactive interface that guides players through each step of the game.
 
 _**How to Use:**_
+ 1. Clone the repository to access the necessary files.
