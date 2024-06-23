@@ -1,1 +1,1 @@
-Introducing a thrilling Multiplayer
+Introducing a thrilling Multiplayer Dice Game developed
