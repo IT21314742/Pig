@@ -12,3 +12,4 @@ _**Key Features:**_
 _**How to Use:**_
  1. **Clone** the repository to access the necessary files.
  2. **Run** the _Python_ script to start the game.
+ 3. Follow the on-screen instructions to add players and begin the dice-rolling fun
