@@ -12,6 +12,6 @@ _**Key Features:**_
 _**How to Use:**_
  1. **Clone** the repository to access the necessary files.
  2. **Run** the _Python_ script to start the game.
- 3. Follow the on-screen instructions to add players and begin the dice-rolling fun
+ 3. **Follow** the on-screen instructions to add players and begin the dice-rolling fun
  4. Each player takes turns rolling the dice, with scores displayed after each roll.
- 5. The game continues until all players have had their turns, and the player with the highest score wins.
+ 5. The game continues until all players have had their turns, and the player with the highest score wins🥇😜.
