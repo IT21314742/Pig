@@ -1,1 +1,1 @@
-Introducing a thrilling Multiplayer Dice Game developed in Python,
+Introducing a thrilling Multiplayer Dice Game developed in Python, where up to 4
