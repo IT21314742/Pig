@@ -5,5 +5,5 @@ Introducing a thrilling Multiplayer Dice Game developed in Python, where up to 4
 _**Key Features:**_
 
  - **Multiplayer Support:**   Allow up to 4 players to join the game, taking turns to roll the dice and compete for the highest score.
- - **Turn-Based Gameplay:**   Ensure fair play with a structured turn-based system,
+ - **Turn-Based Gameplay:**   Ensure fair play with a structured turn-based system, giving each player a chance to roll the dice and track their progress.
 
