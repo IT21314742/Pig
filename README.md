@@ -15,3 +15,6 @@ _**How to Use:**_
  3. **Follow** the on-screen instructions to add players and begin the dice-rolling fun
  4. Each player takes turns rolling the dice, with scores displayed after each roll.
  5. The game continues until all players have had their turns, and the player with the highest score wins🥇😜.
+
+
+_Dive into the excitement of this Multiplayer Dice Game and bring the fun of rolling the dice to your digital gatherings. Explore, contribute, and enjoy this engaging Python project with friends and family_ ❤😊
